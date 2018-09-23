@@ -1,0 +1,18 @@
+name: PokeDefenders
+version: 1.0.0
+author: MyNameIsPhilip
+main: me.philip.wave.Main
+description: Poke
+
+commands:
+  lobbyset:
+  gamespawn:
+  maingame:
+  zombie1:
+  zombie2:
+  zombie3:
+  zombie4:
+  force:
+  forcestop:
+
+
